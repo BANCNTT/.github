@@ -1,4 +1,4 @@
-# <p align="center">:tada::tada::tada: ✨ Western Bus Station Management ✨ :tada::tada::tada:</p>
+# <p align="center">:tada::tada::tada: ✨ Bus Station Management ✨ :tada::tada::tada:</p>
 
 ## :newspaper: Table of Things
 
