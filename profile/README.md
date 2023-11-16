@@ -4,8 +4,8 @@
 
 + Repositories:
 
-Repos | Name | Version | README
------|-----|-----|-----
+| Repos | Name | Version | README |
+|-------|------|---------|--------|
 
 
 ## :bookmark_tabs: References Softs
