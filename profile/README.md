@@ -27,7 +27,7 @@
 | Store                  | Public Port      | Local Port       |
 |------------------------|------------------|------------------|
 | Files                  | 82               | 82               |
-| SQl Server             | 14333            | 1433             |
+| SQL Server             | 14333            | 1433             |
 
 ### DevOps
 | Repos                  | Description      | Tasks            |
