@@ -20,11 +20,11 @@
 |               | 81    | bsm-user-service       | API user                            |                      |    x    |  x   | 192.168.7.210:81    |       |
 
 ### Fan Out
-|    Server     | Port  | Repos                  | Description | Tasks          |
-|:-------------:|-------|------------------------|-------------|----------------|
-| 192.168.77.35 | 5000  | bsm-alpr-3             |             |                |
-|               | 88    | bsm-ticket             |             |                |
-|   *clients*   | 3456  | bsm-print-client       |             |                |
+|    Server     | Port  | Repos                  | Purpose                             | Current?             | Opened? | Ran? | IP opened          | Notes |
+|:-------------:|-------|------------------------|-------------------------------------|----------------------|:-------:|:----:|--------------------|-------|
+| 192.168.77.35 | 5000  | bsm-alpr-3             | ALPR                                |                      |    x    |  x   | 192.168.7.210:5000 |       |
+|               | 88    | bsm-ticket             | API ticket                          |                      |    x    |  x   | 192.168.7.210:88   |       |
+| *All clients* | 3456  | bsm-print-client       | Print receipt PDF (SumatraPDF)      |                      |    x    |  x   | localhost:3456     |       |
 
 ### DevOps
 | Repos                  | Description      | Tasks            |
