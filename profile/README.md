@@ -25,6 +25,7 @@
 | 192.168.77.35 | 5000  | bsm-alpr-3             | ALPR                                |                      |    x    |  x   | 192.168.7.210:5000 |       |
 |               | 88    | bsm-ticket             | API ticket                          |                      |    x    |  x   | 192.168.7.210:88   |       |
 | *All clients* | 3456  | bsm-print-client       | Print receipt PDF (SumatraPDF)      |                      |    x    |  x   | localhost:3456     |       |
+| *All clients* | 4567  | bsm-control-qrcode     | Controll QR Code machines           |                      |    x    |  x   | localhost:4567     |       |
 
 ### DevOps
 | Repos                  | Description      | Tasks            |
@@ -35,7 +36,6 @@
 | Repos                  | Description      | Tasks            |
 |------------------------|------------------|------------------|
 | bsm-receipt-manual     |                  |                  |
-| bsm-control-qrcode     |                  |                  |
 
 ## :bookmark_tabs: References Softs
 
