@@ -35,6 +35,7 @@
 | Repos                  | Description      | Tasks            |
 |------------------------|------------------|------------------|
 | bsm-receipt-manual     |                  |                  |
+| bsm-control-qrcode     |                  |                  |
 
 ## :bookmark_tabs: References Softs
 
