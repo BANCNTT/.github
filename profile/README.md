@@ -11,7 +11,7 @@
 | 192.168.77.33 | 3005  | bsm-app                | Soft                                |    x    |  x   | 192.168.7.210:3005  |       |
 |               | 3007  | bsm-app-administrator  | Soft Administrator                  |    x    |  x   | 192.168.7.210:3007  |       |
 |               | 3010  | bsm-app-car-qrcode     | Soft Seeing car which is processing |    x    |  x   | 192.168.7.210:3010  |       |
-|               | 3009  | bsm-app-kiosk          | Soft Searching in Kiosk Pos         |    x    |  x   |                     |       |
+|               | 3009  | bsm-app-kiosk          | Soft Searching in Kiosk Pos         |    x    |  x   | 192.168.7.210:3009  |       |
 |               |       | bsm-app-statistic      | Soft Statistic                      |         |      |                     |       |
 |               | 3006  | bsm-file-management    | Soft File Management                |    x    |  x   | 192.168.7.210:3006  |       |
 | 192.168.77.35 | 80    | bsm-core               | API core                            |    x    |  x   | 192.168.7.210:80    |       |
